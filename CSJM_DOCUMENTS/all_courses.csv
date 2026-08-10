@@ -1,0 +1,115 @@
+School / Department,Programme,Level,Type
+School of Engineering & Technology ,B.Tech. in Computer Science and Engineering,UG,Regular
+School of Engineering & Technology,B.Tech. in CSE (Artificial Intelligence),UG,Regular
+School of Engineering & Technology,B.Tech. in Electronics and Communication Engineering,UG,Regular
+School of Engineering & Technology,B.Tech. in Chemical Engineering,UG,Regular
+School of Engineering & Technology,B.Tech. in Mechanical Engineering,UG,Regular
+School of Engineering & Technology,B.Tech. in Materials Science and Metallurgical Engineering,UG,Regular
+School of Engineering & Technology,B.Tech. in Chemical Engineering (Lateral Entry),UG,Lateral Entry
+School of Engineering & Technology,B.Tech. in ECE (Lateral Entry),UG,Lateral Entry
+School of Engineering & Technology,B.Tech. in Mechanical Engineering (Lateral Entry),UG,Lateral Entry
+School of Engineering & Technology,B.Tech. in Materials Science & Metallurgy (Lateral Entry),UG,Lateral Entry
+School of Engineering & Technology,M.Tech. in Computer Science and Engineering,PG,Regular
+School of Engineering & Technology,M.Tech. in Electronics and Communication Engineering,PG,Regular
+School of Engineering & Technology,M.Tech. in NanoScience and NanoTechnology,PG,Regular
+School of Engineering & Technology,BCA,UG,Regular
+School of Engineering & Technology,MCA,PG,Regular
+School of Engineering & Technology,Integrated M.Sc. Electronics (VLSI & IoT),UG+PG,Integrated
+School of Engineering & Technology,B.Voc (Interior Design),UG,Regular
+School of Engineering & Technology,Bachelor of Design (B.Des.),UG,Regular
+School of Engineering & Technology,Diploma in Fashion Technology,Diploma,Regular
+School of Engineering & Technology,Diploma in Chemical Engineering,Diploma,Regular
+School of Engineering & Technology,Diploma in Electrical Engineering,Diploma,Regular
+School of Engineering & Technology,Diploma in Mechanical Engineering,Diploma,Regular
+School of Engineering & Technology,Diploma in Metallurgy and Material Technology,Diploma,Regular
+School of Life Sciences & Biotechnology,B.Sc (Hons.) Biotechnology,UG,Regular
+School of Life Sciences & Biotechnology,B.Sc (Hons.) Biological Sciences,UG,Regular
+School of Life Sciences & Biotechnology,B.Sc.-M.Sc. Integrated Biotechnology,UG+PG,Integrated
+School of Life Sciences & Biotechnology,M.Sc. Life Sciences,PG,Regular
+School of Life Sciences & Biotechnology,M.Sc. Biotechnology,PG,Regular
+School of Life Sciences & Biotechnology,M.Sc. Microbiology,PG,Regular
+School of Life Sciences & Biotechnology,M.Sc. Biochemistry,PG,Regular
+School of Life Sciences & Biotechnology,M.Sc. Forensic Science (New),PG,New
+School of Basic Sciences,B.Sc. (Hons.) Physics,UG,Regular
+School of Basic Sciences,B.Sc. (Hons.) Chemistry,UG,Regular
+School of Basic Sciences,B.Sc. (Hons.) Mathematics,UG,Regular
+School of Basic Sciences,B.Sc. (Combination) / B.Sc. Honours / B.Sc. Honours with Research,UG,Regular
+School of Basic Sciences,M.Sc. Physics,PG,Regular
+School of Basic Sciences,M.Sc. Chemistry,PG,Regular
+School of Basic Sciences,M.Sc. Industrial Chemistry,PG,Regular
+School of Basic Sciences,M.Sc. Mathematics,PG,Regular
+School of Basic Sciences,M.Sc. Mathematics with AI and Data Science (New),PG,New
+School of Basic Sciences,M.Sc. Chemistry  Fragrance & Flavour Chemistry (New),PG,New
+School of Basic Sciences,M.Sc. Environmental Science and Technology,PG,Regular
+School of Basic Sciences,M.Sc. Environment Science  Sustainability and Governance (New),PG,New
+School of Basic Sciences,MA Geography,PG,Regular
+School of Basic Sciences,M.Sc. Geography with GIS and Remote Sensing,PG,Regular
+School of Basic Sciences,Certificate course in Vedic Mathematics,Certificate,Regular
+School of Health Sciences,Bachelor of Physiotherapy (BPT),UG,Regular
+School of Health Sciences,B.Sc. in Medical Laboratory Technology (B.Sc. MLT),UG,Regular
+School of Health Sciences,Bachelor of Optometry (B.Optom.),UG,Regular
+School of Health Sciences,Bachelor in Medical Radiology & Imaging Technology (BMRIT),UG,Regular
+School of Health Sciences,B.Sc. in Medical Microbiology (B.Sc. MM),UG,Regular
+School of Health Sciences,B.Sc. in Human Nutrition (B.Sc. HN),UG,Regular
+School of Health Sciences,Bachelor in Operation Theatre Technology (BOTT) (New),UG,New
+School of Health Sciences,Master of Physiotherapy (MPT),PG,Regular
+School of Health Sciences,M.Sc. in Medical Laboratory Technology (M.Sc. MLT),PG,Regular
+School of Health Sciences,M.Sc. in Human Nutrition (M.Sc. HN),PG,Regular
+School of Health Sciences,Master in Medical Radiology and Imaging Technology (MMRIT) (New),PG,New
+School of Health Sciences,Master in Optometry (M.Optom.) (New),PG,New
+School of Pharmaceutical Sciences,B. Pharm.,UG,Regular
+School of Pharmaceutical Sciences,B. Pharm. (Lateral Entry),UG,Lateral Entry
+School of Pharmaceutical Sciences,D. Pharm.,Diploma,Regular
+School of Pharmaceutical Sciences,M. Pharm. (Pharmaceutics),PG,Regular
+School of Pharmaceutical Sciences,M. Pharm. (Pharmaceutical Chemistry),PG,Regular
+School of Pharmaceutical Sciences,M. Pharm. (Pharmacology),PG,Regular
+School of Pharmaceutical Sciences,M. Pharm. (Pharmacognosy),PG,Regular
+School of Languages,B.A.(Hons.) English,UG,Regular
+School of Languages,B.A. Combination / B.A. Honours / B.A. Honours with Research,UG,Regular
+School of Languages,M.A. English,PG,Regular
+School of Languages,M.A. Hindi,PG,Regular
+School of Languages,M.A. Sanskrit,PG,Regular
+School of Languages,Certificate Course in German / French / Russian / Spanish / Mandarin,Certificate,Regular
+School of Languages  Jain Shodh Peeth,MA (Jain Darshan) (New),PG,New
+School of Languages  Jain Shodh Peeth,MA (Prakrit) (New),PG,New
+School of Languages  Jain Shodh Peeth,Certificate in Jain Darshan / Prakrit / Jain Vidhi-Vidhan / Vaastu-Jyotish (New),Certificate,New
+Atal Bihari Vajpayee School of Legal Studies,B.A.LL.B. (Hons.),UG,Regular
+Atal Bihari Vajpayee School of Legal Studies,B.B.A LL.B. (Hons.),UG,Regular
+Atal Bihari Vajpayee School of Legal Studies,L.L.B.(Hons.),UG,Regular
+Atal Bihari Vajpayee School of Legal Studies,L.L.M. (2 Years),PG,Regular
+Atal Bihari Vajpayee School of Legal Studies,L.L.M. (1 Year) (New),PG,New
+"School of Hospitality, Tourism & Catering Technology",Bachelor of Hotel Management & Catering Technology (BHMCT),UG,Regular
+"School of Hospitality, Tourism & Catering Technology",Master of Hotel Management and Catering Technology (MHMCT),PG,Regular
+"School of Hospitality, Tourism & Catering Technology",Diploma in Front Office / Food & Beverage Service / Food Production / Bakery & Confectionery,Diploma,Regular
+School of Creative & Performing Arts  Music,M.A. Music (Vocal / Tabla),PG,Regular
+School of Creative & Performing Arts  Music,Master of Performing Arts (Kathak),PG,Regular
+School of Creative & Performing Arts  Music,Bachelor of Performing Arts (Tabla / Vocal / Kathak),UG,Regular
+School of Creative & Performing Arts  Fine Arts,Bachelor of Fine Arts (Painting / Applied Art / Sculpture),UG,Regular
+School of Creative & Performing Arts  Fine Arts,Master of Fine Arts (Painting / Applied Arts / Sculpture),PG,Regular
+School of Creative & Performing Arts  Fine Arts,Certificate Courses (Painting / Applied Art / Sculpture / Photography / Graphic Design / 3D Animation / 3D Modeling),Certificate,Regular
+School of Teacher Education  Education,B.Ed.,UG,Regular
+School of Teacher Education  Education,M.Ed.,PG,Regular
+School of Teacher Education  Education,Integrated Teacher Education Programme  Science / Arts (New),UG,New
+School of Teacher Education  Education,Certificate course on Digigogy / Educational Leadership and Management (New),Certificate,New
+School of Teacher Education  Physical Education,B.P.Ed. / B.P.E.S.,UG,Regular
+School of Teacher Education  Physical Education,M.P.Ed.,PG,Regular
+School of Teacher Education  Physical Education,B.Sc. / M.Sc. / M.A. Yoga Science,UG/PG,Regular
+School of Teacher Education  Physical Education,P.G. Diploma in Yoga Education,PG Diploma,Regular
+"School of Arts, Humanities & Social Sciences",B.A.(Hons.) Economics / Philosophy / Political Science / Psychology / Sociology,UG,Regular
+"School of Arts, Humanities & Social Sciences",B.Sc. (Hons.) Clinical Psychology (New),UG,New
+"School of Arts, Humanities & Social Sciences",M.A. Economics / Hindu Studies / Public Health / Clinical Psychology / Sociology / Journalism,PG,Regular
+"School of Arts, Humanities & Social Sciences",Master of Social Work (MSW),PG,Regular
+"School of Arts, Humanities & Social Sciences",B.Lib. & I.Sc. / M.Lib. & I.Sc.,UG/PG,Regular
+"School of Arts, Humanities & Social Sciences",B.A. / M.A. (Journalism and Mass Communication),UG/PG,Regular
+"School of Arts, Humanities & Social Sciences",PG Diploma in Journalism / Guidance and Counselling,PG Diploma,Regular
+"School of Arts, Humanities & Social Sciences  Deendayal Shodh Kendra",M.A. Jyotirvigyan,PG,Regular
+"School of Arts, Humanities & Social Sciences  Deendayal Shodh Kendra",Diploma in Karmkand / P.G. Diploma in Vastu Shastra (New),Diploma,Regular
+School of Business Management,MBA (AICTE Approved),PG,Regular
+School of Business Management,M.Com,PG,Regular
+School of Business Management,Master of Hospital Administration (MHA),PG,Regular
+School of Business Management,BBA (AICTE Approved),UG,Regular
+School of Business Management,B.Com. (Hons),UG,Regular
+School of Business Management,Integrated MBA (5 Year) (New),UG+PG,New
+School of Advanced Agriculture Sciences & Technology,B.Sc. (Hons.) Agriculture,UG,Regular
+School of Advanced Agriculture Sciences & Technology,M.Sc. Ag. Agronomy / Horticulture (Fruit/Vegetable/Floriculture),PG,Regular
+School of Advanced Agriculture Sciences & Technology,M.Sc. (Food Science & Technology),PG,Regular

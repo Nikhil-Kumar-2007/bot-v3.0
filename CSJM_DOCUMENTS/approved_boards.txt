@@ -1,0 +1,54 @@
+1-Aligarh Muslim University, Aligarh. 
+2-Andhra Pradesh Board of Intermediate Education, Vidya Bhawan, Nampaly, Hyderabad. 
+3-Assam Higher Secondary Education Council, Bamuni maidan, Guwahati. 
+4-Banasthali Vidyapith, Banasthali. 
+5-Bihar Intermediate Education Council, Budh Marg, Patna. 
+6-Board of Secondary and High Education, U.P. (Teharki, Meerut). 
+7-Board of Secondary Sanskrit Education, Uttar Pradesh, Lucknow. 
+8-Cambridge International Examination (CIE). 
+9-Central Board of Secondary Edu.2, Community Centre, Shiksha Kendra, Preet Vihar, Delhi. 
+10-Chhattisgarh Board of Secondary Education, Pension Bada, Raipur. 
+11-Council of the Indian School Certificate Examinations, Pragati House, Nehru Place, New Delhi. 
+12-Goa Board of Secondary & Higher Secondary Education, Alto Betim, Berdez, Goa. 
+13-Gujarat Secondary & Higher Secondary Education, Sector 10B, Near Old Sachivalaya, Gandhinagar. 
+14-Gurukul Kangri Vishwavidyalaya, Haridwar. 
+15-Haryana Board of School Education, Hansi Road, Bhiwani. 
+16-Himachal Pradesh Board of School Education, Gayana Lok Parisar, Civil Lines, Dharmsala. 
+17-Jamia Millia Hamdard University, New Delhi 
+18-Jamia Millia Islamia, New Delhi. 
+19-Jammu and Kashmir Board of School Edu. Rehari Colony, Jammu 
+20-Jharkhand Academic Council, Birsadin, Hawai Nagar, Hatia, Khunti Road, Ranchi 
+21-Karnataka Board of Pre-University Education, Technical Education Building, Palace Road, Bangalore. 
+22-Karnataka Secondary Edu. Examination Board, 6th Cross, Malleswaram, Bangalore. 
+23-Kerala Board of Higher Secondary Education, Housing Board buildings, Santhi Nagar, Thiruvananthapuram. 
+24-Kerala Board of Public Exam. Pareeksha Bhawan, Poojapura, Thiruvanathapuram. 
+25-M.P. State open School Board of Secondary Education, Campus Shivaji Nagar, Bhopal. 
+26-Madhya Pradesh Board of Higher Secondary Education, Bhopal. 
+27-Maharashtra State Board of Secondary & Higher sec. Education, Campus, Shivajinagar, Pune. 
+28-Maharishi Dayanand University, Rothak. 
+29-Manipur Council of Higher Secondary Education, Babupara, Imphal West-Manipur. 
+30-Meghalaya Board of School Edu., West Garo Hills, Tura, Meghalaya. 
+31-Mizoram Board of School Education Chaltlang, Post Box-7, Aizawl 
+32-Nagaland Board of School Education, Post Box-98, Kohima. 
+33-National Institute of Open Schooling, B-31B, Kailash Colony, New Delhi-110. 
+34-Orissa Council of Higher Secondary Edu.C-2 Pragnyapith, Samatapur, Bhubneshwar. 
+35-Punjab School Edu. Board, Vidya Bhawan, SASNagar, Phase-8, Mohali. 
+36-Rabindra Mukta Vidyalay, Vikash Bhawan (2ndFloor, East Block), Bidhan nagar, Kolkata. 
+37-Rajasthan Board of Secondary Education, Ajmer. 
+38-Tamil Nadu Board of Higher Secondary Education, DPI Compound, College Road, Chennai. 
+39-Telangana State Board of Intermediate Education, Hyderabad. 
+40-Tripura Board of Secondary Edu., Nehru Complex, (Gorkha Basti), P.O. Kanjaban, Agartala, Tripura West. 
+41-U.P.Board of High School & Intermediate Education, Allahabad. 
+42-U.P. Board of Madras Education, Lucknow. 
+43-Uttarakhand Board of High School & Intermediate Education, Dehradun 
+44-W.B.Board of Madras Education,19 Haji Md. Moshin Square, Kolkata. 
+45-W.B.Board of Primary Education, Acharya Prafulla Chandra Bhawan, DK-7/1,Sector-II,Salt Lake, Kolkata. 
+46-W.B. Council of Higher Secondary Education, VidyaSagar Bhawan, 9/2 D.J. Block, Sector-II, Salt Lake, Kolkata. 
+47-Andhra Pradesh Board of Secondary Education, Hyderabad 
+48-Assam Board of Secondary Education Guwahati 
+49-Bihar School Exam Board, Sinha Library Road, Patna 
+50-Manipuri Board of Secondary Education, Imphal 
+51-Orissa Board of Secondary Education, Bajra Kabali Road, Cuttack 
+52-Tamil Nadu State Board of School Examination, College Road, Chennai 
+53-W.B. Board of Secondary Education, 77/2, Park Street, Kolkata 
+54-Grameen Mukt Vidhyalayi Shiksha Sansthan, Haldwani, Nainital. 
